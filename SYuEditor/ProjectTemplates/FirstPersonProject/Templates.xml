@@ -1,0 +1,10 @@
+<ProjectTemple xmlns="http://schemas.datacontract.org/2004/07/SYuEditor.GameProject" 
+				xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+		<Folders xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+			<a:string>.SYu</a:string>
+			<a:string>Content</a:string>
+			<a:string>GameCode</a:string>
+		</Folders>
+		<ProjectFile>project.SYu</ProjectFile>
+		<ProjectType>1st-Person Project</ProjectType>
+</ProjectTemple>
